@@ -1,0 +1,9 @@
+name: PaperNms
+version: 1.0
+main: net.faceless.papernms.PaperNms
+description: PaperNms
+author: Faceless
+api-version: 1.20
+commands:
+  test:
+    description: test
